@@ -20,3 +20,13 @@
 #6) Messages Component Html
 ![image](https://user-images.githubusercontent.com/104597854/172483182-f8940dbe-3b80-44b4-95e8-bf681f317226.png)
 
+#7) App Module ts
+![image](https://user-images.githubusercontent.com/104597854/172484839-bee2fc76-8457-48ed-969e-15be6e20e7c1.png)
+
+#8) Car Service ts
+![image](https://user-images.githubusercontent.com/104597854/172484950-11b6ec45-e5d9-41c4-bb1c-5384b785a00a.png)
+
+#9) In Memory-Data ts
+![image](https://user-images.githubusercontent.com/104597854/172485057-da4f30d1-5a6b-4a5b-b7f0-277f01778655.png)
+
+
