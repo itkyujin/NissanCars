@@ -3,6 +3,8 @@
 # Student Name: Kyu Jin Kim,  Student Number: 200442930
 
 #1) Github Files
+![image](https://user-images.githubusercontent.com/104597854/173171891-800aaa40-3272-48c2-8728-f822d61150a6.png)
+
 ![image](https://user-images.githubusercontent.com/104597854/172481781-aa436769-3a99-4faf-9e89-4b9018b88cdd.png)
 
 ![image](https://user-images.githubusercontent.com/104597854/172486268-dccd898e-3f42-4906-98fe-ff38f3da2c39.png)
